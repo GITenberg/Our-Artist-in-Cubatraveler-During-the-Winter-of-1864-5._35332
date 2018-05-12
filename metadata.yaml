@@ -1,0 +1,32 @@
+_repo: Our-Artist-in-Cubatraveler-During-the-Winter-of-1864-5._35332
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35332-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Carleton, George Washington
+    aliases:
+    - Carleton, G. W. (George Washington)
+    - Carleton, George W.
+    birthdate: 1832
+    deathdate: 1901
+    gutenberg_agent_id: '37601'
+    url: http://www.gutenberg.org/2009/agents/37601
+description: ''
+gutenberg_issued: '2011-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35332'
+  lccn: 03011693
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American wit and humor, Pictorial'
+- !lcc 'F1751'
+- !lcsh 'Cuba -- Social life and customs -- Pictorial works'
+title: "Our Artist in Cuba\r\nFifty drawings on wood. Leaves from the Sketch-book\
+  \ of a traveler, During the Winter of 1864-5."
+url: http://www.gutenberg.org/ebooks/35332
