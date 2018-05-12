@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '37601'
     url: http://www.gutenberg.org/2009/agents/37601
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35332#Our-Artist-in-Cubatraveler-During-the-Winter-of-1864-5.
 gutenberg_issued: '2011-02-19'
 gutenberg_type: Text
 identifiers:
